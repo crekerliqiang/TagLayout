@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TagLayout</string>
+
+    <string name="test_string">Kotlin</string>
+    <string name="material_design">Material Design</string>
+    <string name="rxjava">RxJava</string>
+    <string name="gradle">gradle</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="flutter">Flutter</string>
+</resources>
